@@ -2,7 +2,7 @@ import DsButton from './DsButton.vue'
 
 export default {
   component: DsButton,
-  title: 'Component/Button',
+  title: 'Component/DsButton',
 }
 
 export const Primary = () => ({

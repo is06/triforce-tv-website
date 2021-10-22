@@ -11,3 +11,7 @@ export default Vue.extend({
   },
 })
 </script>
+
+<style lang="postcss" scoped>
+@import '../../../assets/css/tailwind.css';
+</style>
